@@ -1,4 +1,4 @@
-### Hi there poeple 🇧🇦
+### Hi there people 🇧🇦
 
 I'm a passionate High School Student about IT Development. I'm self-taught.
   
