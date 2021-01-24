@@ -5,7 +5,7 @@ I'm a passionate High School Student about IT Development. I'm self-taught.
  - 🇧🇪 From Belgium
  - 🔮 Futur computer science student
  - <img alt="Java" width="18px" src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280"/> Work using Java 
- - <img alt="Wanely" width="18px" src="https://cdn.discordapp.com/attachments/774338180987486219/775094899849691236/1.png"/> <a href="https://github.com/Wanely">@Wanely</a> Team Worker
+ - <img alt="Wanely" width="24px" height="24px" src="https://cdn.wanely.com/images/logo.png"/> <a href="https://github.com/Wanely">@Wanely</a> Team Worker
 
 ### Statistics
 
