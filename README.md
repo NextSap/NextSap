@@ -1,16 +1,17 @@
 ### Hi there people 🇧🇦
 
-I'm a passionate High School Student about IT Development. I'm self-taught.
-  
- - 🇧🇪 From Belgium
- - 🔮 Futur computer science student
- - <img alt="Java" width="18px" src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280"/> Work using Java
+🎓 Networks Systems & Cybersecurity Student
 
-### Statistics
+💡 Self Taught Developer
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=NextSap&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=NextSap&langs_count=3&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+### Technologies
 
-### Social Media
-<a href="https://twitter.com/Asc_NextSap"><img width="50px" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"/></a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+---
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+### Contact
+<a href="https://twitter.com/NextSap_">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
