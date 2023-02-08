@@ -1,6 +1,6 @@
 ### Hi there people 🇧🇦
 
-🎓 Networks Systems & Cybersecurity Student
+🎓 Openclassrooms Student
 
 💡 Self Taught Developer
 
